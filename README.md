@@ -1,4 +1,4 @@
-# ![This is an image](../Bootique/greatkart/static/images/logo28.png) Bootique Store
+# ![This is an image](https://img.freepik.com/premium-vector/boutique-logo-elegant-style_278222-3157.jpg?w=200) Bootique Store
 
 Проект містить в собі повнофункціональний веб-сайт електронної комерції та редизайну веб-додатків. Буде створено повністю кастомізований додаток для електронної комерції з використанням веб-фреймворку Python Django.
 
